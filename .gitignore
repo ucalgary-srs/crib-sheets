@@ -1,0 +1,4 @@
+*.pyc
+movie_frames
+movie_frames/*.png
+*.mp4
